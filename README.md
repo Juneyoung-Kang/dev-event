@@ -34,12 +34,30 @@
 - Timisoara CTF 2018 예선 [14일 18시 ~ 21시 18시, 온라인]
   - [https://contest.timisoaractf.com](https://contest.timisoaractf.com)
 
-- Midnight Sun CTF 예선 [14일 19시 ~ 15일 19시, 온라인]
+- Midnight Sun CTF 예선 [14일 19시 ~ 15일 19시, 온라인]  
   - [https://play.midnightsunctf.se](https://play.midnightsunctf.se)
  
-- Hack Zone Tunisia 2018 [15일 05시 ~ 15일 17시, 온라인]
+- Hack Zone Tunisia 2018 [15일 05시 ~ 15일 17시, 온라인]  
   - [http://www.youp0wn.com](http://www.youp0wn.com)
- 
+
+- PACTF 2018 [16일 17시 ~ 30일 17시, 온라인]  
+  - [https://pactf.com](https://pactf.com)  
+
+- Blaze CTF 2018 [20일 11시 20분 ~ 26일 01시 20분, 온라인]  
+  - [http://420blaze.in](http://420blaze.in)  
+
+- STEM CTF: Cyber Challenge 2018 [21일 08시 ~ 22일 08시, 온라인]  
+  - [https://mitrestemctf.org](https://mitrestemctf.org)  
+  
+- *ctf 2018 [21일 10시 ~ 23일 10시, 온라인]  
+  - [http://starctf.xctf.org.cn](http://starctf.xctf.org.cn)  
+
+- NoNameCon CTF 예선 2018 [22일 06시 ~ 24일 06시, 온라인]  
+  - [https://ctf.nonamecon.org](https://ctf.nonamecon.org)  
+
+- ASIS CTF 예선 2018 [29일 03시 ~ 01일 03시, 온라인]  
+  - [https://asisctf.com](https://asisctf.com)    
+
 ### 기타일정
 
 ---
