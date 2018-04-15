@@ -7,15 +7,15 @@
 
 ## 바로가기
 - 2018년
-  - [4월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-4월)
-  - [5월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-5월)
-  - [6월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-6월)
-  - [7월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-7월)
-  - [8월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-8월)
-  - [9월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-9월)
-  - [10월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-10월)
-  - [11월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-11월)
-  - [12월](https://github.com/Juneyoung-Kang/dev-event/new/master?readme=1#2018년-12월)
+  - [4월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-4월)
+  - [5월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-5월)
+  - [6월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-6월)
+  - [7월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-7월)
+  - [8월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-8월)
+  - [9월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-9월)
+  - [10월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-10월)
+  - [11월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-11월)
+  - [12월](https://github.com/Juneyoung-Kang/dev-event/tree/master#2018년-12월)
 
 ---
 
